@@ -1,3 +1,5 @@
+all: install
+
 uninstall:
 	rm -rf ~/.local/share/kwin/scripts/threecolumnslayout/
 
