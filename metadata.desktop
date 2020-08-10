@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Three Columns Layout
+Comment=Shortcuts for layout window in three columns
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=main.js
+
+X-KDE-PluginInfo-Author=Chizhong Jin
+X-KDE-PluginInfo-Email=pjincz@gmail.com
+X-KDE-PluginInfo-Name=threecolumnslayout
+X-KDE-PluginInfo-Version=0.1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=BSD
+X-KDE-ServiceTypes=KWin/Script
+Type=Service
+
